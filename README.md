@@ -44,10 +44,10 @@ Follow the Microsoft Tutorial : *link in the Documentation*
 
 ## 📜 Documentation
 
-Microsoft's Introduction to the quantum programming language Q#:
+- Microsoft's Introduction to the quantum programming language Q#:
 https://learn.microsoft.com/en-us/azure/quantum/qsharp-overview
 
-Microsoft's Grover's Search Algorithm Tutorial in Q#:
+- Microsoft's Grover's Search Algorithm Tutorial in Q#:
 https://learn.microsoft.com/en-us/azure/quantum/tutorial-qdk-grovers-search?tabs=tabid-copilot
 
 ## 🤝 Contributing
