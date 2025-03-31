@@ -13,6 +13,7 @@ Grover's Algorithm is a quantum algorithm that can search an unsorted database o
 └── Q#/              # Q# implementation
     └── GroverFind10.qs         # Researches one element through a list of four elements
     └── GroversAlgorithm.qs     # Marks the pair elements in the list
+    └── HelloWorld.qs           # Print Hello, World!
 ```
 
 ## 🛠️ Implementation Details
@@ -39,7 +40,15 @@ cd Grovers-Algorithm
 
 ### Q# Implementation
 
-Follow the Microsoft Tutorial : https://learn.microsoft.com/fr-fr/azure/quantum/tutorial-qdk-grovers-search?tabs=tabid-copilot
+Follow the Microsoft Tutorial : *link in the Documentation*
+
+## 📜 Documentation
+
+Microsoft's Introduction to the quantum programming language Q#:
+https://learn.microsoft.com/en-us/azure/quantum/qsharp-overview
+
+Microsoft's Grover's Search Algorithm Tutorial in Q#:
+https://learn.microsoft.com/en-us/azure/quantum/tutorial-qdk-grovers-search?tabs=tabid-copilot
 
 ## 🤝 Contributing
 
