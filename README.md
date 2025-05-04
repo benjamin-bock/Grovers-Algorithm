@@ -1,7 +1,6 @@
 # 🔍 Grover's Algorithm Implementation
 
-This repository contains implementations of Grover's Algorithm in both Python and Q#. Grover's Algorithm is a quantum computing algorithm that provides a quadratic speedup for unstructured search problems.
-
+Implementations of Grover's Algorithm in Microsoft's quantum language Q#. Grover's Algorithm is a quantum computing algorithm that provides a quadratic speedup for unstructured search problems. 
 ## 🌟 What is Grover's Algorithm?
 
 Grover's Algorithm is a quantum algorithm that can search an unsorted database of N entries in O(√N) time, compared to O(N) time for classical algorithms. It's one of the most famous quantum algorithms and demonstrates the power of quantum computing for certain types of problems.
